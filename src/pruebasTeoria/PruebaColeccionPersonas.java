@@ -1,4 +1,4 @@
-package pruebas;
+package pruebasTeoria;
 
 import java.util.Scanner;
 
