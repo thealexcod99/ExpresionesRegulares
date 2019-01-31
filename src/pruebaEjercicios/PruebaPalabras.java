@@ -22,5 +22,4 @@ public class PruebaPalabras {
 			System.out.printf("%s no es una palabra%n", palabra);
 
 	}
-
 }
